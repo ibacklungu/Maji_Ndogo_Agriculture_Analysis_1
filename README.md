@@ -112,8 +112,7 @@ jupyter notebook Maji_Ndogo_Analysis.ipynb
 
 ## 👨‍💻 Author
 **Iback Lungu**  
-[![LinkedIn: linkedin.com/in/iback-lungu-3217451b4)]  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://ibacklunguportifolio.netlify.app/)
+(https://ibacklunguportifolio.netlify.app/)
 
 
 ## 🙏 Acknowledgments
@@ -122,6 +121,6 @@ jupyter notebook Maji_Ndogo_Analysis.ipynb
 - **FAO** for international agricultural standards
 - **Open Source Community** for analytical tools and libraries
 
-**⭐ If you found this project useful, please consider giving it a star on GitHub!**
+** If you found this project useful, please consider giving it a star on GitHub!**
 
-### 🌟 *"When data meets agriculture, every insight becomes a seed for change"* 🌟
+### *"When data meets agriculture, every insight becomes a seed for change"* 
