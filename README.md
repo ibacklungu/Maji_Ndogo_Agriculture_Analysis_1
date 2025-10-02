@@ -112,7 +112,7 @@ jupyter notebook Maji_Ndogo_Analysis.ipynb
 
 ## 👨‍💻 Author
 **Iback Lungu**  
-(https://ibacklunguportifolio.netlify.app/)
+https://ibacklunguportifolio.netlify.app/
 
 
 ## 🙏 Acknowledgments
