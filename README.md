@@ -1,14 +1,7 @@
-# 🌾 Maji Ndogo Agriculture Project
-
-## Maji Ndogo Farm Insights  
-### *Unlocking Ethical Agricultural Intelligence from Integrated Field Data*
-
-> **"When it comes to data for social impact, accuracy isn’t optional—it’s ethical."**
-
+# 🌾 Maji Ndogo Agriculture Project. 
 
 ## Project Overview
 **Transforming Raw Agricultural Data into Actionable Farming Intelligence**
-
 This comprehensive analysis tackles one of Africa's most pressing challenges: optimizing agricultural production in variable climate conditions. Using farm survey data from Maji Ndogo, we built a data-driven framework to answer two fundamental questions: **Where should we farm, and what should we grow?**
 
 
