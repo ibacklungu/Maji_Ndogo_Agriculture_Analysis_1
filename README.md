@@ -11,7 +11,6 @@
 
 This comprehensive analysis tackles one of Africa's most pressing challenges: optimizing agricultural production in variable climate conditions. Using farm survey data from Maji Ndogo, we built a data-driven framework to answer two fundamental questions: **Where should we farm, and what should we grow?**
 
-![Maji Ndogo Map](images/ma)
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](your_colab_link_here)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
