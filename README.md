@@ -1,12 +1,6 @@
 # 🌾 Maji Ndogo Agriculture Project
 
-
-<!-- BANNER -->
-<div align="center">
-  <img src="images/m" alt="Maji Ndogo Agriculture Project — Fields, mountains, and community farms" width="100%" style="border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-</div>
-
-# 🌍 Maji Ndogo Farm Insights  
+## Maji Ndogo Farm Insights  
 ### *Unlocking Ethical Agricultural Intelligence from Integrated Field Data*
 
 > **"When it comes to data for social impact, accuracy isn’t optional—it’s ethical."**
