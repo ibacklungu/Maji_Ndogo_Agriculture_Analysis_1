@@ -1,9 +1,23 @@
 # 🌾 Maji Ndogo Agriculture Project
 
+
+<!-- BANNER -->
+<div align="center">
+  <img src="images/m" alt="Maji Ndogo Agriculture Project — Fields, mountains, and community farms" width="100%" style="border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</div>
+
+# 🌍 Maji Ndogo Farm Insights  
+### *Unlocking Ethical Agricultural Intelligence from Integrated Field Data*
+
+> **"When it comes to data for social impact, accuracy isn’t optional—it’s ethical."**
+
+
 ## Project Overview
 **Transforming Raw Agricultural Data into Actionable Farming Intelligence**
 
 This comprehensive analysis tackles one of Africa's most pressing challenges: optimizing agricultural production in variable climate conditions. Using farm survey data from Maji Ndogo, we built a data-driven framework to answer two fundamental questions: **Where should we farm, and what should we grow?**
+
+![Maji Ndogo Map](images/ma)
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](your_colab_link_here)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
@@ -112,7 +126,7 @@ jupyter notebook Maji_Ndogo_Analysis.ipynb
 
 ## 👨‍💻 Author
 **Iback Lungu**  
-[![LinkedIn: linkedin.com/in/iback-lungu-3217451b4)](your_linkedin_profile)  
+[![LinkedIn: linkedin.com/in/iback-lungu-3217451b4)]  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://ibacklunguportifolio.netlify.app/)
 
 
