@@ -1,6 +1,6 @@
 # 🌾 Maji Ndogo Agriculture Project
 
-## 🎯 Project Overview
+## Project Overview
 **Transforming Raw Agricultural Data into Actionable Farming Intelligence**
 
 This comprehensive analysis tackles one of Africa's most pressing challenges: optimizing agricultural production in variable climate conditions. Using farm survey data from Maji Ndogo, we built a data-driven framework to answer two fundamental questions: **Where should we farm, and what should we grow?**
@@ -55,8 +55,8 @@ farm_management → Crop choices, yields, pollution data
 ```
 
 ## 📈 Business Impact
-### 🎯 Strategic Value
-- **30% more efficient** crop selection through data-driven decisions
+### Strategic Value
+- **More efficient** crop selection through data-driven decisions
 - **Risk reduction** via climate-aware farming recommendations
 - **Resource optimization** by matching crops to optimal conditions
 - **Scalable framework** applicable to any agricultural region
@@ -69,17 +69,6 @@ pandas>=1.4.0
 sqlalchemy>=1.4.0
 matplotlib>=3.5.0
 jupyter notebook Maji_Ndogo_Analysis.ipynb
-```
-
-## 📁 Project Structure
-maji-ndogo-analysis/
-│
-├── 📓 Maji_Ndogo_Analysis.ipynb      # Main analysis notebook
-├── 🗃️ Maji_Ndogo_farm_survey_small.db # SQLite database
-├── 📊 crop_guidelines.csv            # FAO crop recommendations
-├── 📄 requirements.txt               # Python dependencies
-├── 🖼️ visuals/                       # Generated charts & graphs
-└── 📄 README.md                      # This file
 ```
 
 ## Methodology
@@ -96,7 +85,7 @@ maji-ndogo-analysis/
 4. **Visual Storytelling**: Clear charts communicating key insights
 5. **Actionable Recommendations**: FAO-aligned farming guidance
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 ### Technical Competencies
 - **Data Wrangling**: SQL queries, Pandas transformations, data cleaning
 - **Statistical Analysis**: Correlation analysis, group aggregations, outlier detection
@@ -123,7 +112,7 @@ maji-ndogo-analysis/
 
 ## 👨‍💻 Author
 **Iback Lungu**  
-[![LinkedIn](LinkedIn: linkedin.com/in/iback-lungu-3217451b4)](your_linkedin_profile)  
+[![LinkedIn: linkedin.com/in/iback-lungu-3217451b4)](your_linkedin_profile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://ibacklunguportifolio.netlify.app/)
 
 
@@ -135,12 +124,4 @@ maji-ndogo-analysis/
 
 **⭐ If you found this project useful, please consider giving it a star on GitHub!**
 
-
-<div align="center">
-
 ### 🌟 *"When data meets agriculture, every insight becomes a seed for change"* 🌟
-
-</div>
-
-
-*Part of the ALX Data Science Program Portfolio - Turning Data into Agricultural Intelligence*
